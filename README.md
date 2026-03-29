@@ -35,6 +35,6 @@ More efficient smart contract execution
 
 All code, experiments, and findings will be released publicly to support research and development in the Ethereum ecosystem.
 
-📚 Status
+ Status
 
-🚧 Initial research and design phase (PhD proposal stage)
+ Initial research and design phase (PhD proposal stage)
